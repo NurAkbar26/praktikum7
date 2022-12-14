@@ -28,6 +28,8 @@ untuk dan di masukan ke data Mahasiswa.
 ![img.2](gambar/2022-12-14%20(1).png)
 ![img.3](gambar/2022-12-14%20(2).png)
 
+# FLOWCHART
+![img.6](gambar/flowchart.jpg)
 # OUTPUT PROGRAM 
 ![img.5](gambar/2022-12-14%20(3).png)
 ![img.4](gambar/2022-12-14%20(4).png)
